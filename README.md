@@ -1,4 +1,6 @@
 # For academic-related purposes ONLY.
+Activity 1 | IT 331 - Application Development and Emerging Technologies
+by Coleen Jill Sajo
 <hr>ReadMe file taken from <a href="https://github.com/bobangajicsm/ng-video-games-db">bobangajicsm's original repo.</a>
 <br/><i>(Note: Most modifications were made on the design of the original source code, as the functionality of the original source code is as good as it is.)</i><hr>
 
