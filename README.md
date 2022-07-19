@@ -1,5 +1,4 @@
-ReadMe file taken from <a href="https://github.com/bobangajicsm/ng-video-games-db">bobangajicsm's original repo.</a>
-<hr>
+ReadMe file taken from <a href="https://github.com/bobangajicsm/ng-video-games-db">bobangajicsm's original repo.</a><hr>
 # NgVideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
