@@ -1,5 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { Game } from 'src/app/models';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-game-tabs',
@@ -9,9 +10,13 @@ import { Game } from 'src/app/models';
 export class GameTabsComponent implements OnInit {
   @Input() game: Game;
   
-  constructor() { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
   }
 
+  goBack() {
+    this.router.navigate([''])
+  }
+  
 }
