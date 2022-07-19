@@ -1,5 +1,5 @@
 ReadMe file taken from <a href="https://github.com/bobangajicsm/ng-video-games-db">bobangajicsm's original repo.</a>
-<i>(Note: Most modifications were made on the design of the original source code, as the functionality of the original source code is as good as it is.)<hr>
+<br/><i>(Note: Most modifications were made on the design of the original source code, as the functionality of the original source code is as good as it is.)<hr>
 # NgVideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
