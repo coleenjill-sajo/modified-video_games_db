@@ -17,6 +17,10 @@ export class GameTabsComponent implements OnInit {
 
   goBack() {
     this.router.navigate([''])
+    
+    //the [''] is the path written in the localhost site bar thing
+    //brings user back to the "Home" page
+    //referenced in the app-routing.module.ts, defined as "HomeComponent"
   }
   
 }
