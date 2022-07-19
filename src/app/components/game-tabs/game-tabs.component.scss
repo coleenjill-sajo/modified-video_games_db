@@ -62,3 +62,25 @@
       margin: 20px 0;
     }
   }
+
+.bBack {
+  border: none;
+  outline: none;
+  display: flex;
+  background: #af45bf;
+  color: #fff;
+  width: 100px;
+  justify-content: center;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 0 auto;
+  cursor: pointer;
+
+  &:hover {
+    color: #af45bf;
+    background-color: #d4bfdb;
+    border: 1px solid #af45bf;
+  }
+}
